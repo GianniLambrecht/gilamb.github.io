@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center; 
+    background: linear-gradient(to left top, red, yellow );
+    background-attachment: fixed; /*edit*/
+}
+
+h1{
+    color: brown;
+    font-size: 50px;
+    margin-top: 100px;
+}
+p{
+    font-size: 25px;
+    
+}
